@@ -1,0 +1,14 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color: #CCCCCC;
+}
+.section{
+    margin-left:20px;
+}
+.header{
+    font-size:28px;
+}
+.intro{
+   font-style: italic; 
+}

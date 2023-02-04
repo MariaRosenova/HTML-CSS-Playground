@@ -1,0 +1,13 @@
+.cardWithStory{
+    
+    width: 400px;
+    font-size:18px;
+    background-color: #dddddd;
+    border: 1px solid #000000;
+    margin-left: 37%;
+    padding: 10px;
+}
+.headings
+{
+    text-align: center;
+}

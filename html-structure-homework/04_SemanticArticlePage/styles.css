@@ -1,0 +1,31 @@
+body{
+    background-color: #e4e978;
+    
+   
+}
+.comments{
+    background-color:#f2f4c0;
+    font-style: italic;
+    color:#4c7658;
+    border: 1px solid  #b6d7a8;
+    margin:15px 10px;
+    padding: 5px 15px;
+}
+.posted-info{
+    background-color: #F2F4C0;
+    font-style: italic;
+    color:#4c7658;
+    border: 1px solid  #b6d7a8;
+    margin:15px 10px;
+    padding: 5px 15px;
+    
+}
+.content-apple{
+    background-color: #F2F4C0;
+    border: 1px solid  #b6d7a8;
+    margin:15px 10px;
+    padding: 5px 15px;
+}
+header{
+    background-color: #F2F4C0;
+}
