@@ -3,11 +3,26 @@ body{
     line-height: 3;
     font-size:18px;
 }
+i{
+    padding-left: 10px;
+    padding-right: 5px;
+}
+.green{
+    background-color: green;
+}
 
+.orange{
+    background-color: orange;
+}
 a{
     text-decoration: none;
     color: #fff;
-    border-radius: 5.40px;
-    border: 12.6px 27px 12.6px 27px;
+    
+    
+    
     background-color: #eee;
+    
+}
+a:hover{
+    background-color:#eee ;
 }
