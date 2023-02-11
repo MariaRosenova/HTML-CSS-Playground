@@ -1,1 +1,37 @@
-/* TODO: style the html */
+.left{
+    display: inline-block;
+    background-color: #0A2C48;
+    color:#fff;
+    padding: 16px 16px 16px 32px;
+    margin-top:20px;
+    border-radius: 4px;
+
+}
+.left:hover{
+    background-color:#2A4C68;
+}
+
+.center{
+    display: inline-block;
+    background-color: #0A2C48;
+    color:#fff;
+    padding: 16px 16px 16px 32px;
+    margin-top:20px;
+    border-radius: 4px;
+}
+
+.center:hover{
+    background-color:#2A4C68;
+}
+
+.right{
+    display: inline-block;
+    background-color: #0A2C48;
+    color:#fff;
+    padding: 16px 16px 16px 32px;
+    margin-top:20px;
+    border-radius: 4px;
+}
+.right:hover{
+    background-color:#2A4C68;
+}

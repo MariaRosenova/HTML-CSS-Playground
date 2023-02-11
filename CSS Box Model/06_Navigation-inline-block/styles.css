@@ -1,0 +1,36 @@
+body{
+    margin:40px 50px 40px 50px;
+    font-family: Helvetica, sans-serif;
+}
+
+header h1{
+    display: inline-block;
+    margin-right: 80px;
+    font-size: 45px;
+    font-weight: bold;
+}
+nav a{
+    text-decoration: none;
+    padding: 15px;
+    color:green;
+}
+header nav{
+    display: inline-block;
+    font-size:24px;
+    line-height:40px ;
+    height: 40px;
+    padding: 20px;
+}
+
+main h2{
+    border-top: 3px solid black;
+    padding-top: 37px;
+    /* по- тънко трябва да изглежда */
+    font-size: 35px;
+}
+
+main p{
+    color:#606060;
+    text-overflow: hidden;
+}
+
