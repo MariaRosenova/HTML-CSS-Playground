@@ -1,0 +1,77 @@
+@media screen and (width:600px)
+{
+
+    .navbar{
+        justify-content: center;
+    }
+
+    .hero img{
+        display: none;
+    }  
+    .container
+    {
+        text-align: center;
+    }
+    
+    .hero-btns{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom:200px;
+    }
+    .hero-btns a:first-child{
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    /* Anything you need */
+    .col-sm-6{
+        max-height: 120%;
+        flex:0 0 90%;
+        max-width: 90%;
+        margin-bottom:50px;
+        text-align: left;
+    }
+
+    .row h2{
+        width:500px;
+    }
+
+    .side-img img{
+        position: absolute;
+        left:4px;
+    }
+    /* About */
+    .about .row{
+        gap:80px;
+    }
+
+    .about p{
+        color:#314584;
+        font-weight: bold;
+    }
+
+    /* Contact */
+
+    .contact .contact-btn
+    {
+        display: none;
+    }
+
+    .contact-nav
+    {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 55px;
+    }
+
+    .row h5{
+        font-weight: bold;
+    }
+    footer h3{
+        
+        font-size: 3.3rem
+        
+    }
+}

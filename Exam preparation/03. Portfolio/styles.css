@@ -1,0 +1,43 @@
+:root {
+    --gray-light: #efefef;
+    --gray-dark: #909090;
+    --gray-black: #222222;
+  }
+
+body{
+    font-family: 'Raleway', sans-serif;
+
+
+}
+.page-section{
+    max-width: 1880px;
+    margin: 1.5rem;
+    background-color: var(--gray-light);
+    height: calc(100vh-1.5rem);
+    padding: 3rem 5rem;
+    display:flex;
+    gap:2rem;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+}
+.page-section .section-info{
+    flex:0 100px 30%;
+}
+.page-section .title
+{
+    font-size:3rem;
+    font-weight: normal;
+}
+
+/* Hero */
+#hero .page-section{
+   
+}
+
+.page-section .navigation{
+    position:absolute;
+    top:2rem;
+    right:2rem;
+}
+
